@@ -1,0 +1,764 @@
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0010.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0010.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0010.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0011.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0011.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0011.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0015.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0015.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0015.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0019.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0019.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0019.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0026.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0026.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0026.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0047.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0047.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0047.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0065.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0065.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0065.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0073.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0073.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0073.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0093.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0093.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0093.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0109.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0109.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0109.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0125.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0125.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0125.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0163.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0163.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0163.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0170.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0170.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0170.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0181.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0181.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0181.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0184.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0184.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0184.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0190.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0190.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0190.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0193.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0193.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0193.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0196.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0196.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0196.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0224.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0224.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0224.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0232.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0232.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0232.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0237.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0237.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0237.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0261.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0261.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0261.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0291.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0291.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0291.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0308.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0308.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0308.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0319.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0319.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0319.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0343.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0343.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0343.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0359.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0359.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0359.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0384.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0384.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0384.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0412.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0412.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0412.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0420.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0420.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0420.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0430.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0430.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0430.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0434.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0434.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0434.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0435.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0435.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0435.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0437.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0437.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0437.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0466.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0466.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0466.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0474.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0474.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0474.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0492.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0492.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0492.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0515.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0515.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0515.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0645.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0645.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0645.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0674.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0674.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0674.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0731.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0731.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0731.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0755.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0755.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0755.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0770.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0770.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0770.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0783.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0783.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0783.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0794.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0794.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0794.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0818.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0818.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0818.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0820.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0820.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0820.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0904.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0904.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_0904.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_1002.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_1002.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_1002.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_1051.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_1051.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_1051.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
+
+
+<!-- Begin album single item -->
+<div class="album-single-item">
+    <img class="asi-img" src="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_1076.png" alt="image">
+    <!-- Begin item cover -->
+    <div class="asi-cover">
+        <a class="asi-link lg-trigger"
+            href="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_1076.png"
+            data-exthumbnail="assets/img/portfolio/automotive/classic_days_2022_06.08/FullSize_7D_1076.png">
+        </a>
+    </div>
+    <!-- End item cover -->
+</div>
+<!-- End album single item -->
