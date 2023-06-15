@@ -369,6 +369,7 @@ $(".justified-gallery").justifiedGallery({
   randomize: false, // Automatically randomize or not the order of photos.
   captions: false, // Must be "false"!!!
   lastRow: "nojustify", // 'justify', 'nojustify' or 'hide'.
+  waitThumbnailsLoad: false,
 });
 
 // =====================================================================================
