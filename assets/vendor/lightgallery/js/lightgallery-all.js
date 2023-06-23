@@ -1749,7 +1749,7 @@
           !document.mozFullScreenEnabled &&
           !document.msFullscreenEnabled
         ) {
-          return;
+
         } else {
           fullScreen =
             '<button type="button" aria-label="Toggle fullscreen" class="lg-fullscreen lg-icon"></button>';
